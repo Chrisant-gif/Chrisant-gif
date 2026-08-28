@@ -120,3 +120,16 @@ I'm continuing to build practical applications while expanding my experience in:
 * ☁️ Modern deployment workflows
 
 > **Build real things. Learn by solving real problems.**
+## 🧭 Currently
+
+* 🔨 Building and improving full-stack applications with **Next.js, TypeScript & Supabase**
+* 🌱 Strengthening my backend and database architecture skills
+* 🤖 Exploring practical **AI-powered applications**
+* 📊 Learning more about data-driven products and automation
+* 🎨 Combining software development with my background in **3D, photography & video**
+
+### 💡 My Approach
+
+I believe the best way to learn technology is to **build real things**.
+
+Rather than collecting tutorials, I focus on turning ideas and real-world problems into working applications — then improving them one feature at a time.

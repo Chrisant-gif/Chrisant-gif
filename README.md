@@ -56,3 +56,67 @@ Exploring AI-powered applications, automation, data workflows, and modern web te
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge\&logo=adobeillustrator\&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge\&logo=adobepremierepro\&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge\&logo=adobeaftereffects\&logoColor=white)
+## 🚀 Featured Projects
+
+### 🌍 Mwala Connect
+
+**Constituency Development & Public Engagement Platform**
+
+A modern web platform designed to present constituency development information, projects, public engagements, and upcoming activities in a clear and accessible way.
+
+**Built with:**
+`Next.js` `TypeScript` `Tailwind CSS` `Lucide React`
+
+**Highlights:**
+
+* 📊 Development statistics and project information
+* 🏗️ Ongoing, completed, and pending projects
+* 📅 Public engagement and visit schedules
+* 📱 Responsive, mobile-friendly interface
+* 🎨 Modern component-based UI
+
+---
+
+### ❤️ CareBridge
+
+**Community & Disability Support Management Platform**
+
+A web platform designed to help an organization manage and present information about families, community activities, hospital visits, donations, and social impact.
+
+**Built with:**
+`Next.js` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL`
+
+**Highlights:**
+
+* 👨‍👩‍👧 Family management
+* 📊 Live dashboard analytics
+* 💰 Donation management
+* 🏥 Hospital visit tracking
+* 🌳 Community activity tracking
+* 🔐 Dashboard architecture and data management
+
+---
+
+### 🎨 Creative Portfolio
+
+**3D • Photography • Video • Digital Art**
+
+A collection of creative work combining 3D visualization, photography, video production, motion graphics, and digital design.
+
+**Tools:**
+`Blender` `Photoshop` `Illustrator` `Premiere Pro` `After Effects` `Figma`
+
+---
+
+## 📌 What I'm Building Next
+
+I'm continuing to build practical applications while expanding my experience in:
+
+* ⚡ Full-stack web development
+* 🤖 AI-powered applications
+* 📊 Data-driven products
+* 🗄️ Backend architecture & databases
+* 🔌 APIs & integrations
+* ☁️ Modern deployment workflows
+
+> **Build real things. Learn by solving real problems.**

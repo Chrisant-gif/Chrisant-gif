@@ -133,3 +133,21 @@ I'm continuing to build practical applications while expanding my experience in:
 I believe the best way to learn technology is to **build real things**.
 
 Rather than collecting tutorials, I focus on turning ideas and real-world problems into working applications — then improving them one feature at a time.
+---
+
+## 🤝 Let's Connect
+
+I'm always open to interesting projects, collaboration, freelance opportunities, and conversations around technology.
+
+📧 **Email:** [kitakachrisant@gmail.com](mailto:kitakachrisant@gmail.com)
+🎨 **ArtStation:** [View my creative work](https://chris6734.artstation.com/)
+📸 **Instagram:** [@mwaka_chris](https://www.instagram.com/mwaka_chris/)
+💻 **GitHub:** [@Chrisant-gif](https://github.com/Chrisant-gif)
+
+---
+
+### ⚡ A little more about me
+
+When I'm not writing code, you'll probably find me working on **3D visualization, photography, video production, or learning something new.**
+
+**Code + Creativity + Curiosity.**
